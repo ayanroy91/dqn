@@ -1,6 +1,4 @@
-# Sure, here's a restructured version of the code that avoids plagiarism:
 
-# ```python
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -138,4 +136,3 @@ if __name__ == '__main__':
 
     plt.plot(rewards)
     plt.show()
-# ```
