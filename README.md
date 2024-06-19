@@ -1,2 +1,1 @@
-# dqn
-dqn
+python dqn.py
